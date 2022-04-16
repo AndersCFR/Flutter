@@ -7,6 +7,22 @@ Características:
 4. No usa bridges.
 5. No se usa archivos independientes (xml)
 
+*¿Qué es un widget?
+
+Son clases que pueden tener argumentos posicionales y argumentos con nombre.
+
+• Sin estado: Stateless Widget, se dibja una sola vez
+• Con estado: Stateful Widget, se puede redibujar
+
+Comandos Generales
+> Obtener versión de flutter
+>> flutter --version
+
+> Actualizar versión flutter
+>> flutter upgrade
+
+> Doctor de flutter
+>> flutter doctor
 
 
 
